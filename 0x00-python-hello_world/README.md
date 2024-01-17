@@ -1,3 +1,4 @@
-My solutions to 0x00. Python - Hello, World tasks
+Here are the solutions to 0x00. Python - Hello, World tasks
 
-AWESOME.
+
+SUCCESS ONWARDS.
